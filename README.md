@@ -4,8 +4,11 @@
 
 
 1. Post a selfie
-![alt text][selfie]
+![My Selfie][WIN_20180129_14_11_53_Pro]
 
 [selfie]: IMG_20180129_125611.jpg
 
 2. Tell me something interesting about yourself
+
+I'm a top 100 for honor player.
+
