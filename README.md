@@ -6,7 +6,7 @@
 1. Post a selfie
 ![My Selfie][WIN_20180129_14_11_53_Pro]
 
-[selfie]: IMG_20180129_125611.jpg
+[WIN_20180129_14_11_53_Pro]: WIN_20180129_14_11_53_Pro.jpg
 
 2. Tell me something interesting about yourself
 
